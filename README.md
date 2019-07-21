@@ -1,5 +1,3 @@
-# LAB - 
-
 ## Block 6 RESTy Context
 
 ### Author: Felipe Delatorre
